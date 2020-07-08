@@ -36,3 +36,5 @@ ufzua-051ht.ads.tremorhub.com
 6.adsco.re
 adsco.re
 c.adsco.re
+tags-cdn.deployads.com
+downloads.castlabs.com
